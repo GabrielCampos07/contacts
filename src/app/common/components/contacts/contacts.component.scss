@@ -1,0 +1,33 @@
+.info-card {
+  background-color: white;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.info-card .card-title {
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+
+.info-card .card-text {
+  margin-bottom: 15px;
+  color: #555;
+}
+
+.info-card .btn-custom {
+  background-color: #17a2b8;
+  color: #fff;
+  text-transform: uppercase;
+  font-weight: bold;
+  border: none;
+}
+
+.info-card .btn-custom:hover {
+  background-color: #138496;
+  color: #fff;
+}
+
+.icon-color {
+  color: #17a2b8;
+}
