@@ -31,7 +31,7 @@
               "libraryName": "contacts",
               "libraryTarget": "umd"
             },
-            "deployUrl": "http://localhost:9004/"
+            "deployUrl": "https://single-spa-portfolio.s3.us-east-2.amazonaws.com/contacts/"
           },
           "configurations": {
             "production": {
